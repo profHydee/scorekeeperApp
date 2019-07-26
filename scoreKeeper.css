@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+}
+input{
+    margin-bottom:20px;
+    padding:10px;
+}
+p{
+    font-weight:bold;
+}
+h1{
+    font-size:50px;
+}
+button{
+    padding:8px;
+    margin-right:5px;
+}
+.winner{
+    color: green;
+}
